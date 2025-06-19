@@ -1,0 +1,6 @@
+.env/
+.chroma_db/
+.documents/
+env/
+chroma_db/
+documents/
